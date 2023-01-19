@@ -6,8 +6,6 @@
 
 - 📫 How to reach me: **phoenixbboy@gmail.com**
 
-- 🦅 Fun fact: **I'm so dedicated to Phoenix that I have its tatoo on my ribs;)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_kodirov.rasul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kodirov.rasul_" height="30" width="40" /></a>
