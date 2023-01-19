@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="450" src="https://gifdb.com/images/high/phoenix-spit-fire-animartion-b27fz3wgdc6dop6k.gif">
 <h1>Hi there, I'm Cybeast Falzar!</h1>
 <h3>This name stems from a mythological creature, Phoenix, an inspiration from my childhood</h3>
 
