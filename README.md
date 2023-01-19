@@ -1,7 +1,7 @@
-[![MasterHead](https://i.imgur.com/6NiTXLB.gif)]
+![MasterHead](https://i.imgur.com/6NiTXLB.gif)
 <h1 align="center">Hi 👋, I'm Cybeast Falzar</h1>
 <h3 align="center">This name stems from a mythological creature of Phoenix, an inspiration from my childhood</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/6NiTXLB.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoenixifier" alt="phoenixifier" /></a> </p>
 
