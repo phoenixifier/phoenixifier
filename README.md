@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Cybeast Falzar</h1>
-<h3 align="center">This name stems from a mythological creature of Phoenix, an inspiration from my childhood</h3>
+<h1>Hi there, I'm Cybeast Falzar!</h1>
+<h3>This name stems from a mythological creature, Phoenix, an inspiration from my childhood</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🦀 I’m currently learning: **Rust**
 
-- 📫 How to reach me **phoenixbboy@gmail.com**
+- 📫 How to reach me: **phoenixbboy@gmail.com**
 
-- ⚡ Fun fact **I really love my tatoo of Phoenix on my ribs:)**
+- 🦅 Fun fact: **I'm so dedicated to Phoenix that I have its tatoo on my ribs;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
