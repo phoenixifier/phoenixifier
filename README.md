@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="450" src="https://phoenixdigital.net/wp-content/uploads/2021/04/34-e1631801780735.png">
+<img align="right" alt="Coding" width="300" src="https://phoenixdigital.net/wp-content/uploads/2021/04/34-e1631801780735.png">
 <h1>Hi there, Phoenixifier is here!</h1>
 <h3>This name stems from a mythological creature, Phoenix, an inspiration from my childhood</h3>
 
