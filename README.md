@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" width="450" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA3eXN5NGdxczdxcG92MjhucDh6NGN1enF2NGF0Nmg2bDk1dGVqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aU1R8mR8bf1za/giphy.gif">
-<h1>Hi there, Phoenixifier!</h1>
+<img align="right" alt="Coding" width="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fphoenixdigital.net%2F&psig=AOvVaw0u3T6-AyaFY3EjYseJWzXe&ust=1761224688770000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPD0jrbvt5ADFQAAAAAdAAAAABAE">
+<h1>Hi there, Phoenixifier is here!</h1>
 <h3>This name stems from a mythological creature, Phoenix, an inspiration from my childhood</h3>
 
 - 🖥️ I’m currently diving in: **Deep JS foundations, NodeJS and React Native**
